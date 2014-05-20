@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>88A6947D-BE2C-4751-ABCE-881A96CBD2C2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MusicKeys</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FBEB60B3-E270-40D8-8593-ECABD6090245</key>
+		<string>https://github.com/hutchy2570/GoogleMusicKeys.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MusicKeys.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FBEB60B3-E270-40D8-8593-ECABD6090245</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hutchy2570/GoogleMusicKeys.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FBEB60B3-E270-40D8-8593-ECABD6090245</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FBEB60B3-E270-40D8-8593-ECABD6090245</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GoogleMusicKeys</string>
+		</dict>
+	</array>
+</dict>
+</plist>
